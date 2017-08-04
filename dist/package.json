@@ -1,0 +1,28 @@
+{
+  "name": "ng2-basic-library",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github/jorojas/ng2-basic-library"
+  },
+  "author": {
+    "name": "Jonathan Rojas",
+    "email": "jorojas@novopayment.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github/jorojas/ng2-basic-library/issues"
+  },
+  "main": "ng2-basic-library.umd.js",
+  "module": "ng2-basic-library.js",
+  "jsnext:main": "ng2-basic-library.js",
+  "typings": "ng2-basic-library.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
