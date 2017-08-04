@@ -1,4 +1,4 @@
 export declare class SampleService {
-    helloString: String;
+    helloString: string;
     constructor();
 }
